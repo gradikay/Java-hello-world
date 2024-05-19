@@ -1,4 +1,4 @@
-# Java "hello-world"
+# Java "hello-world" :speaking_head:
     
     // This is a simple Java program that prints "Hello, World!" to the console.
     public class HelloWorld {
